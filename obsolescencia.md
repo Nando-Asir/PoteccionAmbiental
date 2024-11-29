@@ -1,7 +1,9 @@
 ## ⏰ _**Obsolencia Infórmatica**_
 
 La **obsolescencia** es el proceso por el cual una máquina, un equipo o una tecnología, deja de ser usado no porque no funcione, sino porque no rinde lo suficiente en comparación con las nuevas máquinas, equipos y tecnologías que aparecen en el mercado. También se puede entender como la reducción del periodo de vida de un bien de consumo o bien de capital, entre otras opciones, por un cambio económico o el avance tecnológico.
+
 La obsolescencia tiene diferentes causas, por las cuales se puede generar la obsolescencia de un dispositivo o tecnología. La obsolescencia más común se basa en la aparición de nuevos sistemas o tecnologías que rindan más o igualen la producción anterior.
+
 Si hay un concepto más económico que tecno­lógico, ese es la obsolescencia; un bien puede estar en perfectas condiciones o funcionar sin problemas, pero será obsoleto si ya existen bienes de producción de más rendimiento. 
 
 En otros casos, podríamos encontrar que la obsolescencia es una estrategia del fabricante, existen 3 tipos de obsolescencia:
