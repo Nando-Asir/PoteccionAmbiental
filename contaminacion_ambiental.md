@@ -9,12 +9,12 @@ La contaminación ambiental suele producirse como consecuencia de determinadas a
 ### _**Tipos de Contaminación**_
 
 - _**Contaminación atmosférica**_: Partículas en suspensión y gases producidos por el tráfico rodado, la industria y las calefacciones son los principales causantes de la contaminación atmosférica.
-- _Contaminación acuática: Afecta a ríos, fuentes de agua subterránea, lagos y mar cuando se liberan residuos contaminantes.
-- _Contaminación del suelo_: La contaminación de los suelos afecta a todos los continentes y hasta a las regiones más remotas de la Tierra.
-- _Contaminación acústica_: Se produce con cualquier ruido excesivo ya sea en proporción, frecuencia, tono, volumen o ritmo.
-- _Contaminación lumínica_: La contaminación lumínica provoca que una de cada tres personas apenas vea el cielo estrellado. Por no hablar de cómo afecta al sueño y al consumo de energía.
-- _Contaminación visual_: Altera visualmente el paisaje. Hace referencia a todos los elementos que no son naturales y que nos envían estímulos visuales. Pueden ser vallas publicitarias, torres eléctricas, etc.
-- _Contaminación térmica_: El aumento de la temperatura (o calentamiento global) afecta a los polos y los glaciares.
+- _**Contaminación acuática**_: Afecta a ríos, fuentes de agua subterránea, lagos y mar cuando se liberan residuos contaminantes.
+- _**Contaminación del suelo**_: La contaminación de los suelos afecta a todos los continentes y hasta a las regiones más remotas de la Tierra.
+- _**Contaminación acústica**_: Se produce con cualquier ruido excesivo ya sea en proporción, frecuencia, tono, volumen o ritmo.
+- _**Contaminación lumínica**_: La contaminación lumínica provoca que una de cada tres personas apenas vea el cielo estrellado. Por no hablar de cómo afecta al sueño y al consumo de energía.
+- _**Contaminación visual**_: Altera visualmente el paisaje. Hace referencia a todos los elementos que no son naturales y que nos envían estímulos visuales. Pueden ser vallas publicitarias, torres eléctricas, etc.
+- _**Contaminación térmica**_: El aumento de la temperatura (o calentamiento global) afecta a los polos y los glaciares.
 
 ### Entre las principales consecuencias de la contaminación se encuentran:
 
