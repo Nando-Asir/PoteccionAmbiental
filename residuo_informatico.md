@@ -15,16 +15,16 @@ Los desechos de dispositivos electrónicos y eléctricos (DDEE) son objetos de u
 
 _**Las 10 categorías de Aparatos Electrónicos**_
 
-Grandes electrodomésticos: frigoríficos, aparatos de aire acondicionado, radiadores o lavadoras.
-Pequeños electrodomésticos: aspiradoras, planchas, cafeteras o básculas.
-Equipos de informática y telecomunicaciones: ordenadores, impresoras, teclados o fax.
-Aparatos electrónicos de consumo y paneles fotovoltaicos: televisores, videocámaras o amplificadores de sonido.
-Aparatos de alumbrado: lámparas led o luminarias profesionales.
-Herramientas eléctricas y electrónicas: sierras o máquinas de coser.
-Juguetes o equipos deportivos y de ocio: trenes eléctricos o videojuegos.
-Productos sanitarios: aparatos de radioterapia o de cardiología.
-Instrumentos de vigilancia y control: detectores de humo o paneles de control.
-Máquinas expendedoras: máquinas expendedoras automáticas de bebidas o de productos sólidos.
+- _**Grandes electrodomésticos**_: frigoríficos, aparatos de aire acondicionado, radiadores o lavadoras.
+- _**Pequeños electrodomésticos**_: aspiradoras, planchas, cafeteras o básculas.
+- _**Equipos de informática y telecomunicaciones**_: ordenadores, impresoras, teclados o fax.
+- _**Aparatos electrónicos de consumo y paneles fotovoltaicos**_: televisores, videocámaras o amplificadores de sonido.
+- _**Aparatos de alumbrado**_: lámparas led o luminarias profesionales.
+- _**Herramientas eléctricas y electrónicas**_: sierras o máquinas de coser.
+- _**Juguetes o equipos deportivos y de ocio**_: trenes eléctricos o videojuegos.
+- _**Productos sanitarios**_: aparatos de radioterapia o de cardiología.
+- _**Instrumentos de vigilancia y control**_: detectores de humo o paneles de control.
+- _**Máquinas expendedoras**_: máquinas expendedoras automáticas de bebidas o de productos sólidos.
 
 _**El problema de la basura electrónica**_
 
