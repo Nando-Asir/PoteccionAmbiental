@@ -25,7 +25,3 @@ Entre las principales consecuencias de la contaminación se encuentran:
 -Envenenamiento de las aguas: El agua contaminada es perjudicial para todas las criaturas que dependen de ella.
 -Erosión del suelo: Porque demasiado veneno y fabricantes de alimentos dañan la tierra, el agua y el aire.
 -Degradación de paisajes naturales: Por contaminación acústica y visual.
-
-_**Referencias**_
--https://www.bbva.com/es/sostenibilidad/que-es-y-que-tipos-de-contaminacion-ambiental-existen/
--https://concepto.de/contaminacion/
