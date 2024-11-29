@@ -7,3 +7,8 @@ _Un trabajo sobre la Proteccion Medioambiental_
 ## [Residuos Informáticos](residuo_informatico.md)
 ## [Obsolescencia Programada](obsolescencia.md)
 ## [Informática Ecológica](informatica_ecologica.md)
+
+---
+
+## [Referencias](referencias.md)
+## [Autores](autores.md)
