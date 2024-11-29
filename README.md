@@ -1,5 +1,5 @@
-# 🖱️ Informática Ambiental
-_Un trabajo sobre la Proteccion Medioambiental_
+# 🖱️ **Informática Ambiental**
+*_Un trabajo sobre la Proteccion Medioambiental_*
 
 ---
 
