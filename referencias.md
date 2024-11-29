@@ -6,3 +6,7 @@
 
 _**Obsolencia**_
 -https://www.sage.com/es-es/blog/diccionario-empresarial/obsolescencia/
+
+
+_**informática ecológica**_
+-https://www.sydle.com/es/blog/tecnologias-sostenibles-66a10977da1cd6396b91af9a
