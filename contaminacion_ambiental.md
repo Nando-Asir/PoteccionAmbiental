@@ -8,7 +8,7 @@ La contaminación ambiental suele producirse como consecuencia de determinadas a
 
 ### _**Tipos de Contaminación**_
 
-- _Contaminación atmosférica_: Partículas en suspensión y gases producidos por el tráfico rodado, la industria y las calefacciones son los principales causantes de la contaminación atmosférica.
+- _**Contaminación atmosférica**_: Partículas en suspensión y gases producidos por el tráfico rodado, la industria y las calefacciones son los principales causantes de la contaminación atmosférica.
 - _Contaminación acuática: Afecta a ríos, fuentes de agua subterránea, lagos y mar cuando se liberan residuos contaminantes.
 - _Contaminación del suelo_: La contaminación de los suelos afecta a todos los continentes y hasta a las regiones más remotas de la Tierra.
 - _Contaminación acústica_: Se produce con cualquier ruido excesivo ya sea en proporción, frecuencia, tono, volumen o ritmo.
