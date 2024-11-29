@@ -1,7 +1,8 @@
 ## 🍀 _**Informática Ecológica**_
 
 La **informática ecológica** (es conocida también como TI ecológica o TI sostenible) se basa en el diseño, la fabricación, el uso y la eliminación de ordenadores, chips, otros componentes tecnológicos y periféricos que limita el impacto perjudicial que tienen sobre el medioambiente (lo que incluye restringir las emisiones de carbono y la energía consumida por parte de los fabricantes, los centros de datos y
-los usuarios finales). La TI ecológica incluye también la selección de materias primas de procedencia sostenible, la reducción de los residuos electrónicos y el apoyo a la sostenibilidad a través de la utilización de recursos renovables. 
+los usuarios finales).
+- La TI ecológica incluye también la selección de materias primas de procedencia sostenible, la reducción de los residuos electrónicos y el apoyo a la sostenibilidad a través de la utilización de recursos renovables. 
 
 ### _**Ejemplos para la ayuda de la informática ecológica**_
 
