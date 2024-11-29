@@ -10,3 +10,6 @@ _**Obsolencia**_
 
 _**informática ecológica**_
 -https://www.sydle.com/es/blog/tecnologias-sostenibles-66a10977da1cd6396b91af9a
+
+_**Resudios Infórmaticos**_
+https://www.pcmadrid.es/ordenadores-ecologicos-informatica-ecologica-de-larga-duracion/
