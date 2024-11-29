@@ -1,6 +1,6 @@
 ## 📖 _**Referencias**_
 
-_**Contaminación ambiental**_
+_**Contaminación Ambiental**_
 - https://www.bbva.com/es/sostenibilidad/que-es-y-que-tipos-de-contaminacion-ambiental-existen/
 - https://concepto.de/contaminacion/
 
@@ -10,7 +10,7 @@ _**Obsolescencia Programada**_
 _**Informática Ecológica**_
 - https://www.sydle.com/es/blog/tecnologias-sostenibles-66a10977da1cd6396b91af9a
 
-_**Residuos informáticos**_
+_**Residuos Informáticos**_
 - https://www.pcmadrid.es/ordenadores-ecologicos-informatica-ecologica-de-larga-duracion/
 - https://ecolec.es/informacion-y-recursos/sobre-los-raee/
 - https://www.dcd.es/basura-electronica-problemas-soluciones/
