@@ -16,7 +16,7 @@ La contaminación ambiental suele producirse como consecuencia de determinadas a
 - Contaminación visual: Altera visualmente el paisaje. Hace referencia a todos los elementos que no son naturales y que nos envían estímulos visuales. Pueden ser vallas publicitarias, torres eléctricas, etc.
 - Contaminación térmica: El aumento de la temperatura (o calentamiento global) afecta a los polos y los glaciares.
 
-Entre las principales consecuencias de la contaminación se encuentran:
+### Entre las principales consecuencias de la contaminación se encuentran:
 
 - Daños a la salud de los seres vivos. 
 - Aumento del calentamiento global: Debido al aire contaminado de las fábricas y los automóviles que debilita el ozono.
@@ -24,4 +24,4 @@ Entre las principales consecuencias de la contaminación se encuentran:
 - Pérdida o disminución de recursos naturales: Porque los elementos naturales necesarios para los seres vivos de la Tierra se están agotando.
 - Envenenamiento de las aguas: El agua contaminada es perjudicial para todas las criaturas que dependen de ella.
 - Erosión del suelo: Porque demasiado veneno y fabricantes de alimentos dañan la tierra, el agua y el aire.
-- Degradación de paisajes naturales: Por contaminación acústica y visual.
+- Degradación de paisajes naturales por contaminación acústica y visual.
