@@ -13,7 +13,7 @@ La reutilización de materiales electrónicos y fuentes de energía desechados a
 
 Los desechos de dispositivos electrónicos y eléctricos (DDEE) son objetos de uso común, como cepillos de dientes eléctricos, secadores de pelo, tablets, lavadoras, teléfonos móviles, etc que al dejar de funcionar, se convierten en desechos que tiramos.
 
-_**Las 10 categorías de Aparatos Electrónicos**_
+📑 _**Las 10 categorías de Aparatos Electrónicos**_
 
 - _**Grandes electrodomésticos**_: frigoríficos, aparatos de aire acondicionado, radiadores o lavadoras.
 - _**Pequeños electrodomésticos**_: aspiradoras, planchas, cafeteras o básculas.
