@@ -11,5 +11,8 @@ _Un trabajo sobre la Proteccion Medioambiental_
 
 ---
 
-### [Referencias](referencias.md)
-### [Autores](autores.md)
+## 📖 Referencias
+[Ver documento](referencias.md)
+
+## ✍️ Autores
+[Ver documento](autores.md)
