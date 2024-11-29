@@ -5,10 +5,10 @@ _**Contaminación ambiental**_
 - https://concepto.de/contaminacion/
 
 _**Obsolescencia Programada**_
--https://www.sage.com/es-es/blog/diccionario-empresarial/obsolescencia/
+- https://www.sage.com/es-es/blog/diccionario-empresarial/obsolescencia/
 
 _**Informática Ecológica**_
--https://www.sydle.com/es/blog/tecnologias-sostenibles-66a10977da1cd6396b91af9a
+- https://www.sydle.com/es/blog/tecnologias-sostenibles-66a10977da1cd6396b91af9a
 
 _**Residuos informáticos**_
 - https://www.pcmadrid.es/ordenadores-ecologicos-informatica-ecologica-de-larga-duracion/
