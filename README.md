@@ -3,10 +3,10 @@ _Un trabajo sobre la Proteccion Medioambiental_
 
 ---
 
-## 1. [Contaminación Ambiental](contaminacion_ambiental.md)
-## 2. [Residuos Informáticos](residuo_informatico.md)
-## 3. [Obsolescencia Programada](obsolescencia.md)
-## 4. [Informática Ecológica](informatica_ecologica.md)
+## 1. _[Contaminación Ambiental](contaminacion_ambiental.md)_
+## 2. _[Residuos Informáticos](residuo_informatico.md)_
+## 3. _[Obsolescencia Programada](obsolescencia.md)_
+## 4. _[Informática Ecológica](informatica_ecologica.md)_
 
 ---
 
