@@ -1,12 +1,8 @@
-_**Residuos Informaticos**_
+## 🚯 Residuos Informáticos
 
-Los desechos de dispositivos electrónicos y eléctricos (DDEE) son objetos de uso común, como cepillos de dientes eléctricos, secadores de pelo, tablets, lavadoras, teléfonos móviles, frigoríficos y planchas. Cuando estos dejan de funcionar, se convierten en inútiles y entran en la categoría de DDEE.
+Los desechos de dispositivos electrónicos y eléctricos (DDEE) son objetos de uso común, como cepillos de dientes eléctricos, secadores de pelo, tablets, lavadoras, teléfonos móviles, etc que al dejar de funcionar, se convierten en desechos que tiramos.
 
-La normativa sobre los DDEE está establecida en el Real Decreto 110/2015, fechado el 20 de febrero. 
-En este se define qué constituye un residuo de dispositivos electrónicos y eléctricos y se presenta un esquema de gestión óptima para su tratamiento.
-De acuerdo con la norma oficial 110/2015, del 20 de febrero, los "Residuos de aparatos electrónicos" o "RAEE" son todos los dispositivos eléctricos y electrónicos que se convierten en desechos según la descripción del artículo 3. a) de la Ley 22/2011, del 28 de julio.
-
-_**Las 10 categorías de AEE**_
+_**Las 10 categorías de Aparatos Electrónicos**_
 
 Grandes electrodomésticos: frigoríficos, aparatos de aire acondicionado, radiadores o lavadoras.
 Pequeños electrodomésticos: aspiradoras, planchas, cafeteras o básculas.
