@@ -1,7 +1,10 @@
 # 🖥️ ***Informática Ambiental***
 _Un trabajo sobre la Proteccion Medioambiental_
 
+![informatica](img/informatica_ambiental.png)
+
 ---
+
 ## 📑 Índice
 
 ### 1. _[Contaminación Ambiental](contaminacion_ambiental.md)_
