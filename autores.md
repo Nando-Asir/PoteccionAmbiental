@@ -1,4 +1,4 @@
-## ✍️ **Autores**
+## ✍️ Autores
 
 - **[Fernando Durán](https://github.com/Nando-Asir)**
   
