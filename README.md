@@ -1,4 +1,4 @@
-# 🖱️ ***Informática Ambiental***
+# 🖥️ ***Informática Ambiental***
 _Un trabajo sobre la Proteccion Medioambiental_
 
 ---
