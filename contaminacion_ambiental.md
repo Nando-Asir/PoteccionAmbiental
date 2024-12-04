@@ -8,7 +8,7 @@ La contaminación ambiental suele producirse como consecuencia de determinadas a
 
 Existen muchos tipos de contaminación, pero vamos a ver los más importantes y como afectan.
 
-#### _**Tipos de Contaminación y su Impacto**_
+#### Tipos de Contaminación y su Impacto
 
 - _**Contaminación atmosférica**_: Partículas en suspensión y gases producidos por el tráfico rodado, la industria y las calefacciones son los principales causantes de la contaminación atmosférica. Esto provoca el calentamiento global y sus consecuencias como el aumento de la temperatura, deshielo, incendios, etc.
 - _**Contaminación acuática**_: Afecta a ríos, fuentes de agua subterránea, lagos y mar cuando se liberan residuos contaminantes. Envenenamiento de las aguas, pérdida de algunas especies.
