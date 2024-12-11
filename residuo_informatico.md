@@ -11,6 +11,8 @@ No toda la basura eléctrica y electrónica es igual. Algunos artículos, como c
 
 La reutilización de materiales electrónicos y fuentes de energía desechados ahorra elementos vitales y reduce el volumen rechazado en los vertederos.
 
+![residuos](img/residuos_informaticos.jpeg)
+
 📑 _**Las 10 categorías de Aparatos Electrónicos**_
 
 - _**Grandes electrodomésticos**_: frigoríficos, aparatos de aire acondicionado, radiadores o lavadoras.
