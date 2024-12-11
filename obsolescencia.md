@@ -2,7 +2,7 @@
 
 La **obsolescencia programada** es el proceso por el cual una máquina, un equipo o una tecnología, deja de ser usado no porque no funcione, sino porque no rinde lo suficiente en comparación con las nuevas máquinas, equipos y tecnologías que aparecen en el mercado. También se puede entender como la reducción del periodo de vida de un bien de consumo o bien de capital, entre otras opciones, por un cambio económico o el avance tecnológico.
 
-![obsolescencia](img/moviles-desechandose.png)
+  ![obsolescencia](img/moviles-desechandose.png)
 
 La obsolescencia tiene diferentes causas, por las cuales se puede generar la obsolescencia de un dispositivo o tecnología. La obsolescencia más común se basa en la aparición de nuevos sistemas o tecnologías que rindan más o igualen la producción anterior.
 
