@@ -1,5 +1,7 @@
 ## 🌍 Contaminación Mediambiental
 
+![contaminacion](img/contaminacion_ambiental.png)
+
 ### ¿Qué es la contaminación ambiental?
 
 La contaminación ambiental se refiere a la presencia de sustancias nocivas en el medio ambiente,que puedan dañar a los seres que viven en la atmósfera.
