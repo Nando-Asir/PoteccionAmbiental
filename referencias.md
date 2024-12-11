@@ -15,5 +15,6 @@ _**Residuos Informáticos**_
 - https://ecolec.es/informacion-y-recursos/sobre-los-raee/
 - https://www.dcd.es/basura-electronica-problemas-soluciones/
 
-
+_**Imágenes**_
+- https://google.com
 
