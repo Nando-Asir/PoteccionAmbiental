@@ -1,6 +1,6 @@
 ## 🌍 Contaminación Mediambiental
 
-![contaminacion](img/contaminacion_ambiental.png)
+![contaminacion](img/contaminacion_ambiental.jpg)
 
 ### ¿Qué es la contaminación ambiental?
 
