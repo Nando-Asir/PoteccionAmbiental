@@ -4,7 +4,7 @@ La **informática ecológica** (es conocida también como TI ecológica o TI sos
 los usuarios finales).
 - La TI ecológica incluye también la selección de materias primas de procedencia sostenible, la reducción de los residuos electrónicos y el apoyo a la sostenibilidad a través de la utilización de recursos renovables.
 
-![ecologica](img/digitalizacion.jpg)
+  ![ecologica](img/digitalizacion.jpg)
 
 ### _**Ejemplos para la ayuda de la informática ecológica**_
 
